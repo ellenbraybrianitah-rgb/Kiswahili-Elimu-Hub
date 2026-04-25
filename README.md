@@ -1,2 +1,2 @@
 # Kiswahili-Elimu-Hub
-AI powered Kiswahili language learning platform 
+ Kiswahili powered language learning platform 
